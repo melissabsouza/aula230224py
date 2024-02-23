@@ -1,0 +1,4 @@
+palavra mais frequente: Novalinha
+frequencia: 3
+letra frequente: a
+frequencia: 9
